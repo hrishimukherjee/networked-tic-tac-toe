@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COMP2601A2Client</string>
+    <string name="choose_opponent">Choose an opponent</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="game_over">Game is over.</string>
+    <string name="game_running">Game currently running...</string>
+    <string name="button_start">Start</string>
+    <string name="game_tied">Game is over. No one won!</string>
+    <string name="button_running">Running</string>
+    <string name="game_ended">Game ended.</string>
+    <string name="button_stop">Stop</string>
+</resources>
